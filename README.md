@@ -42,13 +42,13 @@ The code is well-commented so more details can be found in comments
 
 <h2>Input Images</h2>
 <p>
-<img src="/test1.jpg" width=500>  <img src="/test2.jpg" width=500>
+<img src="/test1.jpg" width=350>  <img src="/test2.jpg" width=350>
 </p>
 
 </br></br>
 
 <h2>Output Images</h2>
 <p>
-<img src="/test1_output.jpg" width=500>  <img src="/test2_output.jpg" width=500>
+<img src="/test1_output.jpg" width=350>  <img src="/test2_output.jpg" width=350>
 </p>
 
