@@ -5,6 +5,14 @@ This repository uses custom-trained MobileNet-SSD V2 model for Object Detection 
 This model will only detect one class of object i.e. Licence Plates </br>
 The explained training of the model can be found in my training repo here : https://github.com/zafarRehan/tensorflow_transfer_learning
 
+<h2>Required Libraries</h2>
+
+    pip install opencv-python
+    pip install numpy
+    pip install tensorflow
+    
+</br>
+
 <h2>Contents</h2>
 
 <h3>1. exported-model:</h3> 
