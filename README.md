@@ -40,3 +40,8 @@ The python file which consists the code to</br>
 <img src="/test1.jpg" width=500>  <img src="/test2.jpg" width=500>
 </p>
 
+<h2>Output Images</h2>
+<p>
+<img src="/test1_ouput.jpg" width=500>  <img src="/test2_output.jpg" width=500>
+</p>
+
