@@ -30,4 +30,5 @@ The python file which consists the code to</br>
         
         protoc object_detection/protos/*.proto --python_out=.
 
+
 4. Change the BASE_PATH in line 10 of the code as guided in comment
