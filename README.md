@@ -7,12 +7,18 @@ The training of the model can be found here : https://github.com/zafarRehan/tens
 
 <h2>Contents</h2>
 
-<h3>exported-model:</h3> This folder contains the trained model that we got as the result from <a src="https://github.com/zafarRehan/tensorflow_transfer_learning">tensorflow_transfer_learning</a>
+<h3>1. exported-model:</h3> 
+This folder contains the trained model that we got as the result from <a src="https://github.com/zafarRehan/tensorflow_transfer_learning">tensorflow_transfer_learning</a>
 
-models: &emsp; &emsp; &emsp; &emsp;This folder is the official Tensorflow's models library https://github.com/tensorflow/models which is needed for custom training a tensorflow model and in this case loading the custom trained model. This repo also has cool drawing functionalities which I used for drawing the bounding boxes over image.
+<h3>2. models:</h3> 
+This folder is the official Tensorflow's models library https://github.com/tensorflow/models which is needed for custom training a tensorflow model and in this case loading the custom trained model. This repo also has cool drawing functionalities which I used for drawing the bounding boxes over image.
 
-custom.pbtxt          This file contains the class labels and is the same file used while training the model. 
+<h3>3. custom.pbtxt:</h3>         
+This file contains the class labels and is the same file used while training the model. 
 
-detect.py             The python file which consists the code to  1. Load Model
-                                                                  2. Detect Licences
-                                                                  3. Draw the output over image
+<h3>4. detect.py:</h3>       
+The python file which consists the code to</br>
+1. Load Model</br>
+2. Detect Licences</br>
+3. Draw the output over image 
+
