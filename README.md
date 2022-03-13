@@ -26,9 +26,9 @@ The python file which consists the code to</br>
 1. In order to run the code you must have tensorflow 2.2 or above intalled </br>
 2. Make sure to change your present working directory to <b>path to repo folder + licence_plate_detection/models/research</b></br>
 3. Run the following code:
-```
-protoc object_detection/protos/*.proto --python_out=.
-```
+    ```
+    protoc object_detection/protos/*.proto --python_out=.
+    ```
 4. Change the BASE_PATH in line 10 of the code as guided in comment </br>
 5. Proceed to run the code
 
