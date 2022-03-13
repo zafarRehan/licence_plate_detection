@@ -33,16 +33,19 @@ The python file which consists the code to</br>
 
 4. Change the BASE_PATH in line 10 of the code as guided in comment
 5. Proceed to run the code
-</br>
-</br>
+
+</br></br>
+
 The code is well-commented so more details can be found in comments
-</br>
-</br>
+
+</br></br>
 
 <h2>Input Images</h2>
 <p>
 <img src="/test1.jpg" width=500>  <img src="/test2.jpg" width=500>
 </p>
+
+</br></br>
 
 <h2>Output Images</h2>
 <p>
