@@ -7,7 +7,7 @@ The training of the model can be found here : https://github.com/zafarRehan/tens
 
 <h2>Contents</h2>
 
-<p>exported-model:               This folder contains the trained model that we got as the result from <a src="https://github.com/zafarRehan/tensorflow_transfer_learning">tensorflow_transfer_learning</a> </p>
+<h3>exported-model:<h3> This folder contains the trained model that we got as the result from <a src="https://github.com/zafarRehan/tensorflow_transfer_learning">tensorflow_transfer_learning</a>
 
 models: &emsp; &emsp; &emsp; &emsp;This folder is the official Tensorflow's models library https://github.com/tensorflow/models which is needed for custom training a tensorflow model and in this case loading the custom trained model. This repo also has cool drawing functionalities which I used for drawing the bounding boxes over image.
 
