@@ -32,3 +32,9 @@ The python file which consists the code to</br>
 
 
 4. Change the BASE_PATH in line 10 of the code as guided in comment
+
+
+
+<h2>Input Images</h2>
+<img src="/test1.jpg" width=600><img src="/test2.jpg" width=600>
+
