@@ -37,6 +37,6 @@ The python file which consists the code to</br>
 
 <h2>Input Images</h2>
 <p>
-<img src="/test1.jpg" width=500><img src="/test2.jpg" width=500>
+<img src="/test1.jpg" width=500>  <img src="/test2.jpg" width=500>
 </p>
 
