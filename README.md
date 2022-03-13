@@ -42,6 +42,6 @@ The python file which consists the code to</br>
 
 <h2>Output Images</h2>
 <p>
-<img src="/test1_ouput.jpg" width=500>  <img src="/test2_output.jpg" width=500>
+<img src="/test1_output.jpg" width=500>  <img src="/test2_output.jpg" width=500>
 </p>
 
