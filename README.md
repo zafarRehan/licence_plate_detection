@@ -24,7 +24,7 @@ The python file which consists the code to</br>
 
 <h2>Running the code</h2>
 1. In order to run the code you must have tensorflow 2.2 or above intalled </br>
-2. Make sure to change your present working directory to <b>licence_plate_detection/models/research</b></br>
+2. Make sure to change your present working directory to <b>path to repo folder + licence_plate_detection/models/research</b></br>
 3. Run the following code:</br>
 
         
